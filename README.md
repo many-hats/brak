@@ -2,7 +2,7 @@
 > An audio library for training speaker encoders. Currently implemented in Pytorch, Jax support soon.
 
 
-```python
+```
 #
 ```
 
@@ -27,7 +27,7 @@ Brak differs from current implementations of speaker encoders which use 3-layer 
 
 ## How to use
 
-```python
+```
 1+1
 ```
 
